@@ -1,3 +1,3 @@
-# generative-ai-practice
+## data-preprocessing-and-embedding 
 
-Code and insights I get while learning and practicing generative AI  
+Using Vector embeddings, TF-IDF, Bag of Words, one hot encoding etc. for preprocessing text
